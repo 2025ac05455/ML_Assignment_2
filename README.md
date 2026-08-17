@@ -48,7 +48,6 @@ The objective of this assignment is to build, evaluate, and compare multiple sup
 | **Naive Bayes** | 0.980769 | 0.985405 | 0.951070 | 0.971875 | 0.961360 | 0.948660 |
 | **Random Forest (Ensemble)** | **0.998462** | **1.000000** | **1.000000** | **0.993750** | **0.996865** | **0.995854** |
 
-*(Exact unrounded values matching terminal execution output).*
 
 ---
 
